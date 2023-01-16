@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [无网卡设备利用树莓派wifi联网 | DHCP](https://fater.top/record/raspi-relay-wifi/)
+- [Windows Terminal 优化 | oh-my-posh+lux](https://fater.top/tools/windows-terminal-tools/)
 - [SCNU教务系统学生评价辅助工具](https://fater.top/tools/scnu-jwxt-evaluate-auto-script/)
 - [在Ubuntu上使用Docker容器隔离出单个cuda环境](https://fater.top/record/init-nvidia-in-docker-by-ssh-ubuntu/)
-- [无网络的Ubuntu环境下安装pppoe拨号上网](https://fater.top/record/ubuntu-system-install-pppoe-without-network/)
-- [移动WSL2至其他磁盘](https://fater.top/tools/move-wsl2-to-other-disk/)
 <!-- BLOGPOSTS:END -->
