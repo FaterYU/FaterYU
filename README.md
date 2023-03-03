@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [简单使用 chatGPT API](https://fater.top/usage/use-chatgpt-api/)
 - [无网卡设备利用树莓派wifi联网 | DHCP](https://fater.top/record/raspi-relay-wifi/)
 - [Windows Terminal 优化 | oh-my-posh+lux](https://fater.top/tools/windows-terminal-tools/)
 - [SCNU教务系统学生评价辅助工具](https://fater.top/tools/scnu-jwxt-evaluate-auto-script/)
-- [在Ubuntu上使用Docker容器隔离出单个cuda环境](https://fater.top/record/init-nvidia-in-docker-by-ssh-ubuntu/)
 <!-- BLOGPOSTS:END -->
