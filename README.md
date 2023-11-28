@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [升级WSL系统并安装ROS2-Humble](https://fater.top/record/upgrade-wsl-system-install-ros2-humble/)
+- [Ubuntu 20.04 构建并测试 AlphaPose](https://fater.top/usage/build-test-alphapose/)
 - [简单使用 chatGPT API](https://fater.top/usage/use-chatgpt-api/)
 - [无网卡设备利用树莓派wifi联网 | DHCP](https://fater.top/record/raspi-relay-wifi/)
-- [Windows Terminal 优化 | oh-my-posh+lux](https://fater.top/tools/windows-terminal-tools/)
-- [SCNU教务系统学生评价辅助工具](https://fater.top/tools/scnu-jwxt-evaluate-auto-script/)
 <!-- BLOGPOSTS:END -->
