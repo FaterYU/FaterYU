@@ -28,13 +28,8 @@
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateryu&hide=HTML&langs_count=5">
-  </br>
-  <h2>
-    🏆 Dynamically generated GitHub Stat Trophies
-  </h2>
-  </br>
-  <img src="https://github-profile-trophy.vercel.app/?username=fateryu">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateryu&hide=HTML&langs_count=5">-->
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg">
   </br>
   <h2>
     Latest Blog Posts
