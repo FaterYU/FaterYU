@@ -33,6 +33,38 @@
   </br>
 </div>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 407.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 524 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/FaterYU/FaterYU/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/12/2023 18:08:31 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   </br>
