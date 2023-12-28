@@ -78,4 +78,5 @@ C                        3 repos             ██░░░░░░░░░�
 - [升级WSL2系统并安装ROS2-Humble](https://fater.top/record/upgrade-wsl-system-install-ros2-humble/)
 - [Ubuntu 20.04 构建并测试 AlphaPose](https://fater.top/usage/build-test-alphapose/)
 - [简单使用 chatGPT API](https://fater.top/usage/use-chatgpt-api/)
+- [无网卡设备利用树莓派wifi联网 | DHCP](https://fater.top/record/raspi-relay-wifi/)
 <!-- BLOGPOSTS:END -->
