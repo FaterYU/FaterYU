@@ -5,7 +5,7 @@
     You Are My <img src="https://profile-counter.glitch.me/fateryu/count.svg"> Visitors
   </h1>
   </br>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaterYU&show_icons=true&count_private=true"/>
+  <!--<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaterYU&show_icons=true&count_private=true"/>-->
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 
@@ -30,6 +30,11 @@
   </br>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateryu&hide=HTML&langs_count=5">-->
   <img src="./profile-3d-contrib/profile-south-season-animate.svg">
+  </br>
+</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<div align="center">
   </br>
   <h2>
     Latest Blog Posts
