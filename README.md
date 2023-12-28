@@ -34,21 +34,21 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
 
-**🐱 我的 GitHub 数据** 
+**🐱 My GitHub Data** 
 
-> 📦  使用了 407.7 kB GitHub 存储空间 
+> 📦 407.7 kB Used in GitHub's Storage 
  > 
-> 🏆 529 个贡献，在 2023 年
+> 🏆 531 Contributions in the Year 2023
  > 
-> 🚫 不开放招聘
+> 🚫 Not Opted to Hire
  > 
-> 📜 24 个公共仓库 
+> 📜 24 Public Repositories 
  > 
-> 🔑 21 个私人仓库 
+> 🔑 21 Private Repositories 
  > 
-**我最常使用 Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   15 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
@@ -60,12 +60,8 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
-**时间线**
 
-![Lines of Code chart](https://raw.githubusercontent.com/FaterYU/FaterYU/main/assets/bar_graph.png)
-
-
- Last Updated on 28/12/2023 18:36:21 UTC
+ Last Updated on 28/12/2023 18:44:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
