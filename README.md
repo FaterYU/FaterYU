@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaterYU&show_icons=true"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fateryu&hide=HTML)](https://github.com/Christmas/github-readme-stats)
 
 
 #### Latest Blog Posts
