@@ -32,6 +32,7 @@
   <img src="./profile-3d-contrib/profile-south-season-animate.svg">
   </br>
 </div>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -66,6 +67,7 @@ C                        3 repos             ██░░░░░░░░░�
 
  Last Updated on 28/12/2023 18:08:31 UTC
 <!--END_SECTION:waka-->
+
 <div align="center">
   </br>
   <h2>
