@@ -4,10 +4,9 @@
   <h1>
     You Are My <img src="https://profile-counter.glitch.me/fateryu/count.svg"> Visitors
   </h1>
-  </br>
   <!--<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaterYU&show_icons=true&count_private=true"/>-->
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 
   <img src="https://img.shields.io/badge/C++-512BD4?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++">
   <img src="https://img.shields.io/badge/-Python-37A6AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
