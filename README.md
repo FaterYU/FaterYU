@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,7 +114,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2024 14:11:48 UTC
+ Last Updated on 13/03/2024 15:13:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
