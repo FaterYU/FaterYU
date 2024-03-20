@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,7 +114,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2024 06:15:25 UTC
+ Last Updated on 20/03/2024 07:13:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
