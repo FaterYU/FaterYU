@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -105,7 +105,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2024 09:17:19 UTC
+ Last Updated on 30/06/2024 10:13:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
