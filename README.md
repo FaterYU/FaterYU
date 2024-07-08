@@ -80,18 +80,16 @@ Sunday                   209 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   39 mins             █████████████████████████   99.72 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-openMVG_Build            29 mins             ███████████████████░░░░░░   76.16 % 
-pixel-perfect-sfm        9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +105,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2024 16:17:26 UTC
+ Last Updated on 08/07/2024 17:12:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
