@@ -43,7 +43,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 619.6 kB Used in GitHub's Storage 
+> 📦 619.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 152 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,7 +105,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2024 19:12:51 UTC
+ Last Updated on 16/07/2024 20:14:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
