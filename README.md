@@ -35,6 +35,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
@@ -78,16 +80,18 @@ Sunday                   209 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Prolog                   2 mins              █████████████████████████   100.00 % 
+Prolog                   55 mins             █████████████████░░░░░░░░   67.51 % 
+Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Perl                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Knowledge Representation 2 mins              █████████████████████████   100.00 % 
+Knowledge Representation 1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +107,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 16:18:01 UTC
+ Last Updated on 03/11/2024 17:13:39 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
