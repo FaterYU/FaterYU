@@ -80,19 +80,16 @@ Sunday                   209 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 7 mins         █████████████████░░░░░░░░   67.41 % 
-Prolog                   31 mins             ████████░░░░░░░░░░░░░░░░░   31.08 % 
-Perl                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 39 mins        █████████████████████████   99.19 % 
-Knowledge Representation 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +105,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 16:20:21 UTC
+ Last Updated on 15/11/2024 17:15:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
