@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -49,9 +49,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 42 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -105,7 +105,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2024 11:15:14 UTC
+ Last Updated on 16/12/2024 12:34:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
