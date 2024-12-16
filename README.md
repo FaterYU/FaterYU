@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -80,16 +80,17 @@ Sunday                   209 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 36 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FoxAndGoose              1 hr 25 mins        ██████████████████████░░░   89.25 % 
+DistributedSystems       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +106,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2024 16:22:02 UTC
+ Last Updated on 16/12/2024 17:15:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
