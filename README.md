@@ -35,9 +35,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
@@ -45,7 +45,7 @@
 
 > 📦 758.3 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,7 +111,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 13:20:51 UTC
+ Last Updated on 31/12/2024 14:14:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
