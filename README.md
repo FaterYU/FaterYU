@@ -35,9 +35,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
 
@@ -45,7 +45,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,17 +100,17 @@ WSL                      15 hrs 31 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            █████████░░░░░░░░░░░░░░░░   36.21 % 
-C++                      16 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   22 repos            █████████░░░░░░░░░░░░░░░░   37.29 % 
+C++                      16 repos            ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
 
 
- Last Updated on 13/03/2025 05:16:43 UTC
+ Last Updated on 13/03/2025 06:23:10 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
