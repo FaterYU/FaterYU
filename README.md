@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -44,6 +44,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,7 +114,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2025 06:21:33 UTC
+ Last Updated on 15/03/2025 07:15:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
