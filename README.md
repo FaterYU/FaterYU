@@ -45,8 +45,6 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -111,7 +109,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 03:12:20 UTC
+ Last Updated on 01/04/2025 04:20:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
