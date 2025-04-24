@@ -80,17 +80,16 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DyHPTM                   25 mins             ██████████████████░░░░░░░   70.81 % 
-software_copyright_src_fo10 mins             ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +105,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2025 16:22:20 UTC
+ Last Updated on 24/04/2025 17:16:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
