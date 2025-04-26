@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -44,6 +44,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 68 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,16 +80,23 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   27 mins             ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+C++                      20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+CMake                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+C                        13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+src                      50 mins             ██████████████░░░░░░░░░░░   54.09 % 
+FAST-LIVO2               20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+livox_ros_driver2_humble 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+rpg_vikit                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +112,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2025 16:19:25 UTC
+ Last Updated on 26/04/2025 17:13:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
