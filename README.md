@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -80,16 +80,20 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 min               █████████████████████░░░░   82.29 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+livox_ros_driver2        2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +109,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2025 16:20:54 UTC
+ Last Updated on 06/05/2025 17:16:46 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
