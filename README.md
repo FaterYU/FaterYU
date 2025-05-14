@@ -45,8 +45,6 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -105,7 +103,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 12:34:32 UTC
+ Last Updated on 14/05/2025 13:29:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
