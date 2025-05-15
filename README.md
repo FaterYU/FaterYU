@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👨‍🎓 [Profile](https://fateryu.github.io/) 📓 [Blog](https://fater.top/) 📽️ [Bilibili](https://space.bilibili.com/188667355)
+
 <div align="center">
   <h1>
     You Are My <img src="https://profile-counter.glitch.me/fateryu/count.svg"> Visitors
