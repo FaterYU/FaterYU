@@ -37,6 +37,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
@@ -80,21 +82,16 @@ Sunday                   199 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ███████████████████░░░░░░   74.90 % 
-YAML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FaterYU.github.io        1 hr 57 mins        █████████████████████████   99.92 % 
-chunkitlau.github.io     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +107,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 16:22:47 UTC
+ Last Updated on 21/05/2025 17:16:24 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
