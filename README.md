@@ -37,7 +37,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
@@ -46,8 +46,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
- > 
-> 🏆 120 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,7 +113,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 15:14:12 UTC
+ Last Updated on 06/09/2025 16:16:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
