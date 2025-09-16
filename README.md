@@ -37,6 +37,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
@@ -80,17 +82,16 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 mins             ███████████████████░░░░░░   76.73 % 
-Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Python                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-organization_profile     32 mins             █████████████████████████   100.00 % 
+hnu-net                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +107,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 16:20:26 UTC
+ Last Updated on 16/09/2025 17:14:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
