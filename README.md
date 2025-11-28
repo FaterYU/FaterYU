@@ -82,17 +82,16 @@ Sunday                   212 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OccHis                   6 mins              █████████████████████████   99.12 % 
-OccWorld                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +107,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2025 16:21:21 UTC
+ Last Updated on 28/11/2025 17:15:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
