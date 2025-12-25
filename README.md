@@ -82,18 +82,16 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     44 mins             ███████████████████████░░   91.08 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OccSTeP.github.io        49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +107,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2025 16:21:33 UTC
+ Last Updated on 25/12/2025 17:15:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
