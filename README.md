@@ -37,7 +37,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -82,16 +82,20 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       47 mins             █████████████████████░░░░   83.86 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UnityGaussianSplatting   29 mins             █████████████░░░░░░░░░░░░   51.90 % 
+test03                   15 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+ply                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+New                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +111,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 16:23:04 UTC
+ Last Updated on 30/12/2025 17:18:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
