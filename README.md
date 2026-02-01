@@ -37,8 +37,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%209%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.28%20million%20lines%20of%20code-blue?style=flat)
@@ -107,7 +105,7 @@ PostScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 15:21:33 UTC
+ Last Updated on 01/02/2026 16:24:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
