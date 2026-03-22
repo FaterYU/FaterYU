@@ -37,7 +37,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -112,7 +112,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2026 15:22:32 UTC
+ Last Updated on 22/03/2026 16:24:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
