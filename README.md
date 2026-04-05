@@ -37,7 +37,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -82,16 +82,20 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             █████████████████░░░░░░░░   67.71 % 
+Markdown                 4 mins              ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DM-IMU-macOS-CLI         11 mins             ████████████████░░░░░░░░░   64.79 % 
+openarm_isaac_lab        5 mins              ████████░░░░░░░░░░░░░░░░░   31.21 % 
+mc02-can3-imu-base       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +111,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2026 16:32:07 UTC
+ Last Updated on 05/04/2026 17:27:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
