@@ -1,40 +1,39 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
 
-👨‍🎓 [Profile](https://fateryu.github.io/) 📓 [Blog](https://fater.top/) 📽️ [Bilibili](https://space.bilibili.com/188667355)
+<p>
+  👨‍🎓 <a href="https://fateryu.github.io/">Profile</a> |
+<!--  📓 <a href="https://fater.top/">Blog</a> | -->
+  📽️ <a href="https://space.bilibili.com/188667355">Bilibili</a>
 
-<div align="center">
-  <h1>
-    You Are My <img src="https://profile-counter.glitch.me/fateryu/count.svg"> Visitors
-  </h1>
-  <!--<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaterYU&show_icons=true&count_private=true"/>-->
+  🎓 M.S. @ HNU 🎓 Dual B.S. @ SCNU & UoA<br/>
+  🧠 Exploring Computer Vision, Robotics, Embodied AI, and World Models<br/>
+  📚 Sharing projects, tools, and research along the way<br/>
+  🌱 Might become the last generation to coding by hand, AI shock is coming!
+</p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
+<p>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=false&vCenter=true&random=false&width=435&lines=Talk+is+cheap.+Show+me+the+code."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-  <img src="https://img.shields.io/badge/C++-512BD4?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++">
-  <img src="https://img.shields.io/badge/-Python-37A6AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff" alt="Vue.js">
-  <img src="https://img.shields.io/badge/ReactNative-813144?style=flat-square&logo=react&logoColor=ffffff" alt="ReactNative">
-  </br>
-  <img src="https://img.shields.io/badge/-ROS2-8DD6F9?style=flat-square&logo=ros&logoColor=ffffff" alt="ROS2">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker">
-  <img src="https://img.shields.io/badge/-Element-02845A?style=flat-square&logo=electron&logoColor=ffffff" alt="Element">
-  <img src="https://img.shields.io/badge/-Electron-002D71?style=flat-square&logo=element&logoColor=ffffff" alt="Electron">
-  <img src="https://img.shields.io/badge/-OpenCV-361522?style=flat-square&logo=opencv&logoColor=ffffff" alt="OpenCV">
-  <img src="https://img.shields.io/badge/-OpenAIGym-91302E?style=flat-square&logo=openaigym&logoColor=ffffff" alt="OpenAI Gym">
-  </br>
-  <img src="https://img.shields.io/badge/-Tensorflow-204366?style=flat-square&logo=tensorflow&logoColor=ffffff" alt="Tensorflow">
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  </br>
-  <img alt="GIF" src="./code.gif?raw=true" />
-  </br>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateryu&hide=HTML&langs_count=5">-->
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg">
-  </br>
+<div align="left">
+  <strong>
+    <span style="font-size: 32px;">
+      You Are My
+      <img src="https://profile-counter.deno.dev/fateryu/count.svg" alt="fateryu visitor count" />
+      Visitors
+    </span>
+  </strong>
 </div>
+
+<img align="left" src="./profile-3d-contrib/profile-south-season-animate.svg" width="50%" alt="3d contrib" />
+<img align="right" src="./code.gif?raw=true" width="45%" alt="code gif" />
+
+<br clear="both" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2018%20mins-blue?style=flat)
@@ -89,18 +88,14 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 11/04/2026 17:38:52 UTC
 <!--END_SECTION:waka-->
-
+<!--
 <div align="center">
   </br>
   <h2>
     Latest Blog Posts
   </h2>
 </div>
+-->
 
 <!-- BLOGPOSTS:START -->
-- [通过 Docker 部署 DOMjudge](https://fater.top/record/domjudge-docker-config/)
-- [升级WSL2系统并安装ROS2-Humble](https://fater.top/record/upgrade-wsl-system-install-ros2-humble/)
-- [Ubuntu 20.04 构建并测试 AlphaPose](https://fater.top/usage/build-test-alphapose/)
-- [简单使用 chatGPT API](https://fater.top/usage/use-chatgpt-api/)
-- [无网卡设备利用树莓派wifi联网 | DHCP](https://fater.top/record/raspi-relay-wifi/)
 <!-- BLOGPOSTS:END -->
