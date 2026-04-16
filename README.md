@@ -27,6 +27,7 @@
       <img src="https://profile-counter.deno.dev/fateryu/count.svg" alt="fateryu visitor count" />
       Visitors
     </span>
+    since 2026.04.01
   </strong>
 </div>
 
@@ -88,6 +89,17 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 16/04/2026 05:39:07 UTC
 <!--END_SECTION:waka-->
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=FaterYU%2FNEXT-SCNUThesis%2CFaterYU%2Frm_vision%2CFaterYU%2FOccSTeP&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=FaterYU/NEXT-SCNUThesis%2CFaterYU/rm_vision%2CFaterYU/OccSTeP&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=FaterYU/NEXT-SCNUThesis%2CFaterYU/rm_vision%2CFaterYU/OccSTeP&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=FaterYU/NEXT-SCNUThesis%2CFaterYU/rm_vision%2CFaterYU/OccSTeP&type=date&legend=top-left" />
+ </picture>
+</a>
+
 <!--
 <div align="center">
   </br>
