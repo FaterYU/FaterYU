@@ -53,15 +53,15 @@
  > 
 > 📜 49 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-🌆 Daytime                385 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-🌃 Evening                595 commits         █████████░░░░░░░░░░░░░░░░   36.06 % 
-🌙 Night                  437 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌞 Morning                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌆 Daytime                385 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌃 Evening                596 commits         █████████░░░░░░░░░░░░░░░░   36.10 % 
+🌙 Night                  437 commits         ███████░░░░░░░░░░░░░░░░░░   26.47 % 
 ```
 
 
@@ -77,17 +77,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-C++                      16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   24 repos            █████████░░░░░░░░░░░░░░░░   35.82 % 
+C++                      16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 
 
 
- Last Updated on 25/04/2026 11:44:37 UTC
+ Last Updated on 25/04/2026 13:15:34 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
