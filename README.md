@@ -77,17 +77,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████░░░░░░░░░░░░░░░░   35.82 % 
-C++                      16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Python                   24 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+C++                      15 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 28/04/2026 14:27:28 UTC
+ Last Updated on 28/04/2026 16:58:39 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
