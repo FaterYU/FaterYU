@@ -47,13 +47,13 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -77,17 +77,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-C++                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Python                   25 repos            █████████░░░░░░░░░░░░░░░░   35.21 % 
+C++                      16 repos            ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 04:03:17 UTC
+ Last Updated on 29/05/2026 08:09:42 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
