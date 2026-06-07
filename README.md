@@ -37,6 +37,8 @@
 <br clear="both" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2056%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.33%20million%20lines%20of%20code-blue?style=flat)
@@ -69,7 +71,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +87,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 16:23:34 UTC
+ Last Updated on 07/06/2026 18:10:31 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
