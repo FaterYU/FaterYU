@@ -73,28 +73,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (57.92%)
+⏱ AI Coding Time: 28 mins (55.71%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 4,598,663 Input Tokens, 18,278 Output Tokens
+🔤 3,759,858 Input Tokens, 12,124 Output Tokens
 
-💵 $19.12 Estimated AI Cost This Week
+💵 $14.74 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 127 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -111,7 +111,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 17:06:52 UTC
+ Last Updated on 01/08/2026 19:16:25 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
