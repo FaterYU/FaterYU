@@ -73,30 +73,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Codex Vscode             58 mins             █████████████████░░░░░░░░   66.50 % 
-VS Code                  29 mins             ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Codex Vscode             43 mins             ██████████████████░░░░░░░   71.55 % 
+VS Code                  17 mins             ███████░░░░░░░░░░░░░░░░░░   28.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (100.0%)
+⏱ AI Coding Time: 1 hr 1 min (100.0%)
 
-✍️ 1,079 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,075 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,866,261 Input Tokens, 107,399 Output Tokens
+🔤 1,223,165 Input Tokens, 78,297 Output Tokens
 
-💵 $62.03 Estimated AI Cost This Week
+💵 $53.74 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 71 AI Prompts
+🧠 4 AI Sessions, 36 AI Prompts
 
-GPT                      1,079 lines         █████████████████████████   100.00 % 
+GPT                      1,075 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,700 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 13,682 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 16:44:56 UTC
+ Last Updated on 24/08/2026 17:37:44 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
