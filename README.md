@@ -73,31 +73,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Codex Vscode             43 mins             ██████████████████░░░░░░░   71.55 % 
-VS Code                  17 mins             ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+Codex Vscode             2 mins              ██████████████████████░░░   87.47 % 
+VS Code                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (100.0%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
-✍️ 1,075 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,223,165 Input Tokens, 78,297 Output Tokens
+🔤 96,985 Input Tokens, 5,600 Output Tokens
 
-💵 $53.74 Estimated AI Cost This Week
+💵 $41.22 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 36 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GPT                      1,075 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,682 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 9,026 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +113,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 16:24:12 UTC
+ Last Updated on 26/08/2026 19:09:15 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
