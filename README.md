@@ -37,9 +37,9 @@
 <br clear="both" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -73,29 +73,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████░░░░░░░░░░░░   50.43 % 
-Codex Vscode             1 hr 27 mins        ████████████░░░░░░░░░░░░░   49.57 % 
+Codex Vscode             1 hr 45 mins        █████████████░░░░░░░░░░░░   53.92 % 
+VS Code                  1 hr 30 mins        ████████████░░░░░░░░░░░░░   46.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 16 mins (100.0%)
 
 ✍️ 1,466 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,821,178 Input Tokens, 680,541 Output Tokens
+🔤 8,434,684 Input Tokens, 699,337 Output Tokens
 
-💵 $261.59 Estimated AI Cost This Week
+💵 $273.11 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 72 AI Prompts
+🧠 35 AI Sessions, 75 AI Prompts
 
 GPT                      1,396 lines         ████████████████████████░   95.03 % 
 Codex-Vscode             73 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 29,690 characters per prompt
+📚 Verbose Prompter — average 25,858 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -113,7 +113,7 @@ BibTeX Style             1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 18:57:19 UTC
+ Last Updated on 24/09/2026 22:11:10 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
