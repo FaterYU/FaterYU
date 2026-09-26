@@ -37,9 +37,9 @@
 <br clear="both" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -73,30 +73,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        ███████████████░░░░░░░░░░   59.73 % 
-Codex Vscode             52 mins             ██████████░░░░░░░░░░░░░░░   40.27 % 
+Codex Vscode             44 mins             ███████████████████████░░   91.14 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 48 mins (100.0%)
 
-✍️ 666 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 171 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,395,364 Input Tokens, 83,474 Output Tokens
+🔤 1,708,824 Input Tokens, 45,941 Output Tokens
 
-💵 $40.98 Estimated AI Cost This Week
+💵 $30.10 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 57 AI Prompts
+🧠 19 AI Sessions, 16 AI Prompts
 
-GPT                      669 lines           █████████████████████████   100.00 % 
+GPT                      171 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 20,846 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 9,454 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ BibTeX Style             1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 17:01:26 UTC
+ Last Updated on 26/09/2026 19:43:18 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
