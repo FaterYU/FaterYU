@@ -37,9 +37,9 @@
 <br clear="both" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -73,30 +73,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  11 hrs 26 mins      ██████████████░░░░░░░░░░░   55.89 % 
-Codex Vscode             9 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.11 % 
+VS Code                  12 hrs 20 mins      ███████████████░░░░░░░░░░   58.16 % 
+Codex Vscode             8 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 2 mins (97.95%)
+⏱ AI Coding Time: 20 hrs 47 mins (98.02%)
 
-✍️ 5,786 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 5,443 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 46,127,050 Input Tokens, 3,677,930 Output Tokens
+🔤 46,233,774 Input Tokens, 3,780,211 Output Tokens
 
-💵 $1699.33 Estimated AI Cost This Week
+💵 $1729.84 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 584 AI Prompts
+🧠 98 AI Sessions, 740 AI Prompts
 
-GPT                      5,527 lines         ████████████████████████░   94.43 % 
-Codex-Vscode             326 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+GPT                      5,240 lines         ████████████████████████░   95.10 % 
+Codex-Vscode             270 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 11,579 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 11,308 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ BibTeX Style             1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 16:13:25 UTC
+ Last Updated on 01/10/2026 21:44:13 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
