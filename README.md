@@ -73,30 +73,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        ████████████████████░░░░░   79.88 % 
-Codex Vscode             1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+VS Code                  5 hrs 5 mins        ██████████████████████░░░   89.31 % 
+Codex Vscode             36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 39 mins (99.89%)
+⏱ AI Coding Time: 5 hrs 41 mins (99.86%)
 
-✍️ 1,544 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,308 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,928,130 Input Tokens, 477,872 Output Tokens
+🔤 2,110,650 Input Tokens, 227,931 Output Tokens
 
-💵 $255.28 Estimated AI Cost This Week
+💵 $99.57 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 369 AI Prompts
+🧠 32 AI Sessions, 308 AI Prompts
 
-GPT                      1,548 lines         █████████████████████████   100.00 % 
+GPT                      1,312 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,551 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 10,421 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ BibTeX Style             1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 18:23:11 UTC
+ Last Updated on 10/10/2026 22:23:07 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
