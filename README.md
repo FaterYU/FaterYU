@@ -73,31 +73,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        ███████████████████████░░   90.31 % 
-Codex Vscode             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 36 mins (99.86%)
-
-✍️ 1,306 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,755,939 Input Tokens, 225,491 Output Tokens
-
-💵 $91.43 Estimated AI Cost This Week
-
-🧠 28 AI Sessions, 303 AI Prompts
-
-GPT                      1,310 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,267 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +95,7 @@ BibTeX Style             1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 17:36:56 UTC
+ Last Updated on 13/10/2026 00:25:14 UTC
 <!--END_SECTION:waka-->
 
 ## Star History
